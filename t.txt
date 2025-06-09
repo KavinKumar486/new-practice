@@ -1,9 +1,1 @@
-a. To remove the file from the staging area but keep the changes in the working directory:
-git reset HEAD <file>
-
-b. To discard both the staged and working directory changes:
-git reset HEAD <file>
-git checkout -- <file>
-
-c. If you've already committed the file but have not pushed it, and want to remove it from the commit history while keeping the changes in your working directory:
-git reset --soft HEAD~1
+i love
