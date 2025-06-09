@@ -9,3 +9,5 @@ def calc2(a,b):
 print(
     calc2(67,234)
 )
+def mul(a,b):
+    return a*b
